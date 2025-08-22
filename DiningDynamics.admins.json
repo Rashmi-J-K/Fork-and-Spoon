@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "681996a206ec3249535f4c8c"
+  },
+  "name": "admin",
+  "phone": 1231231231,
+  "address": "mangalore",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$LTdTIKKc7UFUkLKpmEpU4OU9ifDlsncKZ88g4ze.prXUK.ChBQZNe",
+  "createdAt": {
+    "$date": "2025-05-06T04:57:06.903Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T04:57:06.903Z"
+  },
+  "__v": 0
+}]
